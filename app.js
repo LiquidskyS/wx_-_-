@@ -1,10 +1,10 @@
 App({
   d: {
-    //hostUrl: 'https://ptjdl1mv.qcloud.la',
-    hostUrl: 'http://122.152.193.158',
+    hostUrl: 'http://www.machish.cn',
+    //hostUrl: 'http://122.152.193.158',
     appId:"wx3ae5f52ccd189f76",
     appKey:"",
-    //ceshiUrl:'https://ptjdl1mv.qcloud.la',
+    //ceshiUrl:'http://www.machish.cn',
     ceshiUrl: 'http://122.152.193.158',
   },
 
